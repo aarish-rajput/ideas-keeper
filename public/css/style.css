@@ -1,0 +1,27 @@
+.logo{
+  width:130px;
+  margin:auto;
+}
+
+body{
+background: url('https://images.pexels.com/photos/192136/pexels-photo-192136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+color:#fff;
+}
+
+
+.mt{
+  margin-top: 20vh;
+}
+
+.navbar-dark .dropdown-item{
+  color: black !important;
+}
+
+.navbar-dark .dropdown-item:active{
+  background-color: #fff !important;
+}
+
+.navbar-dark ul li a {
+  color: white !important;
+}
+
